@@ -1,0 +1,7 @@
+h1{ 
+    border: 10px solid transparent;
+    padding: 15px;
+    border-image: url(border.png) 30 round;}
+p{background-image: -webkit-gradient(pink yellow);}
+h1#A{background-image: linear-gradient(to right, red , yellow);}
+p#A{background-image: linear-gradient(red, orange, yellow, green, blue, indigo, violet);}

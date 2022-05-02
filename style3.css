@@ -1,0 +1,5 @@
+h1{background-color:Tomato;
+    font-size:300%;
+}
+h1#first{background-color:Orange;} 
+h1.second{background-color:DodgerBlue}

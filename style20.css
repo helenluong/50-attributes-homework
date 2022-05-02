@@ -1,0 +1,40 @@
+body {
+    background: rgb(21, 20, 20)
+}
+
+p {
+    color: rgba(0, 255, 119, 0.8);
+    text-align: center;
+}
+
+h1 {
+    color: rgb(255, 0, 170);
+    text-align: center;
+    margin: auto;
+}
+
+h2 {
+    color: rgb(21, 20, 20);
+    text-align: left;
+    background-color: burlywood;
+}
+
+a {
+    color: hsla(55, 83%, 35%, 0.993);
+    display: block;
+    margin: 100px 100px 100px 200px;
+    background-color: bisque;
+    padding: 5px 20px;
+}
+.test{
+    font-size: 26px;
+    color: rgba(255,155,155, 1);
+
+}
+a.test {
+    background-color:darkorange;
+}
+
+p.test{
+    background-color:rgba(0, 255, 119, 0.8)
+}

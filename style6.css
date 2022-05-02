@@ -1,0 +1,16 @@
+h2{
+    color: brown;
+    border: 10px solid currentcolor;
+    padding: 15px;  
+  }
+h2.first{
+    color: darkmagenta;
+    border: 10px dotted currentcolor;
+    padding: 10px;  
+  }
+h2#second{
+    color: cyan;
+    border: 10px inset currentcolor;
+    padding: 15px;  
+    margin: 20px;
+  }

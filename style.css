@@ -1,0 +1,13 @@
+h1{ border: 1px dashed rgba(194, 29, 29, 0.845);
+    display: block;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 120px;
+    margin-left: 80px;
+    background-color: yellow;
+    padding: 20px;
+}
+p {border-style: dotted dashed solid double;
+    display: block;
+}
+p#note{background-position: initial;}
